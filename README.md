@@ -4,11 +4,12 @@
 
 ## Ejercicio Integrador
 
+![](ForkJoinWars.jpg)
+
 **Hace mucho tiempo, en una cursada muy muy lejana, antiguos programadores tuvieron la tarea de hacer un sistema para modelar la guerra que se avecinaba, pero su tarea quedó inconclusa. Sabemos que pronto la fuerza volverá a despertar y tenemos que estar listos para esto, por lo que necesitamos un sistema para recordar los sucesos y los protagonistas de esa antigua guerra.**
 
 _“El miedo es el camino hacia el Lado Oscuro: el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento.”_
 
-![](ForkJoinWars.jpg)
 Revisando antiguos pergaminos encontramos información sobre los más variados seres que se distribuían en los innumerables planetas del universo.
 
 ### Planetas y sus habitantes
