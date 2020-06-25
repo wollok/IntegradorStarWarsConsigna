@@ -6,7 +6,7 @@
 
 **Hace mucho tiempo en una cursada muy muy lejana antiguos programadores tuvieron la tarea de hacer un sistema para modelar la guerra que se avecinaba, pero su tarea quedó inconclusa. Sabemos que pronto la fuerza volverá a despertar y tenemos que estar listos para esto, por lo que necesitamos un sistema para recordar los sucesos y los soldados de esa antigua guerra.**
 
-![](http://i.imgur.com/mml6T1h.jpg)
+![](ForkJoinWars.jpg)
 Revisando antiguos pergaminos encontramos información sobre los más variados seres que se distribuían en los innumerables planetas del universo.
 
 ### Planetas y sus habitantes
@@ -37,11 +37,13 @@ Desarrollar los métodos que permitan:
 - Saber si un planeta posee una orden, lo cual sucede si con solo los 3 habitantes más poderosos (probablemente maestros) logra obtener mayor o igual poder que la mitad del poder del planeta.
 - Representar qué le sucede a un maestro al vivir cualquier suceso importante. 
 
-### Probar la siguiente secuencia argumental
+### Realizar pruebas 
+
+- Hacer tests de los principales items
+
+- Probar la siguiente secuencia argumental:
 
 “Corrompido por el lado oscuro, el joven Skywalker ha sido. 
 el muchacho que adiestraste desaparecido ha… consumido, por Darth Vader”
 
-Como honorable maestro de la Orden Jedi, Anakin sigue el camino de la luz, sin embargo un doloroso suceso de alta carga emocional negativa hacen que la ira y el odio lo dominen y su sufrimiento lo hace convertirse en uno de los maestros Sith más poderosos y temidos de la historia, Darth Vader.
-
-Luego de imponer un imperio del terror y dominar gran parte de la galaxia, Darth Vader se encuentra en una situación extrema en la cual Lord Palpatine intenta convencerlo de que asesine a su hijo Luke, este suceso tiene una carga emocional tan grande para Anakin que termina arrepintiéndose de sus actos y volviendo al lado de la luz.
+Como honorable maestro de la Orden Jedi, Anakin sigue el camino de la luz, sin embargo un doloroso suceso de alta carga emocional negativa hacen que la ira y el odio lo dominen y su sufrimiento lo hace convertirse en uno de los maestros Sith más poderosos y temidos de la historia, Darth Vader. Más adelante, luego de imponer un imperio del terror y dominar gran parte de la galaxia, se encuentra en una situación extrema en la cual Lord Palpatine intenta convencerlo de que asesine a su hijo Luke, este suceso tiene una carga emocional tan grande para él que termina arrepintiéndose de sus actos y volviendo al lado de la luz.
