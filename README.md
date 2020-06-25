@@ -12,7 +12,7 @@ _“El miedo es el camino hacia el Lado Oscuro: el miedo lleva a la ira, la ira 
 Revisando antiguos pergaminos encontramos información sobre los más variados seres que se distribuían en los innumerables planetas del universo.
 
 ### Planetas y sus habitantes
-Cuando un planeta entra en guerra, si bien hay soldados entrenados para combatir, todos sus habitantes deben estar preparados y ser capaces de desplegar todo su poder. El poder de cualquier habitante de un planeta se calcula como su propia valentía más su inteligencia. En el caso de los soldados (como los stormtrooper, los droides y los clones), se le suma la potencia de las armas y otros elementos que conforman su equipamiento (pistolas, granadas, guantes, etc) y que se considere útiles (cuando tiene potencia superior a 10 y no se encuentran desgastadas por el uso).  
+Cuando un planeta entra en guerra, si bien hay soldados entrenados para combatir, todos sus habitantes deben estar preparados y ser capaces de desplegar todo su poder. El poder de cualquier habitante de un planeta se calcula como su propia valentía más su inteligencia. En el caso de los soldados (como los stormtrooper, droides, clones y en general todos los personajes que combaten), se le suma la potencia de las armas y otros elementos que conforman su equipamiento (pistolas, granadas, guantes, etc) y que se considere útiles (cuando tiene potencia superior a 10 y no se encuentran desgastadas por el uso).  
 
 ### Maestros
 Además, en los planetas también hay otros personajes que son conocidos como maestros, que poseen una gran concentración de midiclorianos en su cuerpo. Ellos tienen control sobre la Fuerza, la cual es tan poderosa como peligrosa, y pueden utilizarla de diferentes maneras: A quienes siguen el lado luminoso de la Fuerza y la usan para el bien del universo se les llama Jedi, mientras que se conoce como Sith a los que siguen su lado oscuro, utilizándola para causar daño o buscar inescrupulosamente su beneficio personal. Todo maestro tiene un sable de luz que sabe manejar con destreza y precisión.
@@ -33,16 +33,16 @@ Cuando un maestro cambia de lado, todo su equipamiento se repara.
 ### Requerimientos:
 Desarrollar los métodos que permitan:
 - Calcular el poder de un planeta, que es la suma del poder de todos los que lo habitan. 
-- Permitir que los habitantes tomen y se desprendan de armas y otros elementos. Que al usarlas se desgasten pero que luego se puedan reparar.
+- Permitir que los solados tomen y se desprendan de armas y otros elementos. Que al usarlas se desgasten pero que luego se puedan reparar.
 - Saber si un planeta posee una orden, lo cual sucede si con solo los 3 habitantes más poderosos (probablemente maestros) logra obtener mayor poder que la mitad del poder del planeta.
 - Representar qué le sucede a un maestro al vivir cualquier suceso importante. 
 
 ### Pruebas 
 Hacer tests de los principales items, entre ellas probar las siguientes situaciones (**¡Spoiler Alert!**):
 
-- **Halcón** Han y Chubby tienen el "Halcón Milenario" y con el uso de desgastó. Luego, Ray lo toma y arregla.
-- **Tatooine** Un planeta con más de tres habitantes que posse una orden. 
-- **La Fuerza** Como honorable maestro de la Orden Jedi, Anakin sigue el camino de la luz, sin embargo un doloroso suceso de alta carga emocional negativa hacen que la ira y el odio lo dominen y su sufrimiento lo hace convertirse en uno de los maestros Sith más poderosos y temidos de la historia, Darth Vader. Más adelante, luego de imponer un imperio del terror y dominar gran parte de la galaxia, se encuentra en una situación extrema en la cual Lord Palpatine intenta convencerlo de que asesine a su hijo Luke, este suceso tiene una carga emocional tan grande para él que termina arrepintiéndose de sus actos y volviendo al lado de la luz.
+- **Halcón:** Han y Chubby tienen el "Halcón Milenario" y con el uso de desgastó. Luego, Ray lo toma y arregla.
+- **Tatooine:** Un planeta con más de tres habitantes que posse una orden. 
+- **La Fuerza:** Como honorable maestro de la Orden Jedi, Anakin sigue el camino de la luz, sin embargo un doloroso suceso de alta carga emocional negativa hacen que la ira y el odio lo dominen y su sufrimiento lo hace convertirse en uno de los maestros Sith más poderosos y temidos de la historia, Darth Vader. Más adelante, luego de imponer un imperio del terror y dominar gran parte de la galaxia, se encuentra en una situación extrema en la cual Lord Palpatine intenta convencerlo de que asesine a su hijo Luke, este suceso tiene una carga emocional tan grande para él que termina arrepintiéndose de sus actos y volviendo al lado de la luz.
 
 _“Corrompido por el lado oscuro, el joven Skywalker ha sido. 
 el muchacho que adiestraste desaparecido ha… consumido, por Darth Vader”_
