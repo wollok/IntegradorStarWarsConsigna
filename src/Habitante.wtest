@@ -13,8 +13,7 @@ test "testAnakinPasaAlLadoOscuro" {
 }
 
 test "testVaderPasaAlLadoLuminoso" {
-	
-	// darthVader?
+	var darthVader // = ?
 	assert.equals("Lado Luminoso", darthVader) //arreglar y completar
 }
 
